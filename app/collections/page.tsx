@@ -11,6 +11,11 @@ import type {
   PriceOrder,
 } from "@/utils/schema";
 import { Suspense } from "react";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Collections - SneaksUp",
+};
 
 function CollectionsPage({
   searchParams,

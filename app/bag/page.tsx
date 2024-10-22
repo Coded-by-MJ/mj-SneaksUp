@@ -9,6 +9,11 @@ import Container from "@/components/global/Container";
 import CartTotals from "@/components/bag/CartTotals";
 import { auth } from "@clerk/nextjs/server";
 import { redirect } from "next/navigation";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Bag - SneaksUp",
+};
 
 async function CartPage() {
   const { userId } = auth();

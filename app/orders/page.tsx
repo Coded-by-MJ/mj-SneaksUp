@@ -10,6 +10,11 @@ import {
 import Container from "@/components/global/Container";
 import { fetchUserOrders } from "@/utils/actions";
 import { formatCurrency, formatDate } from "@/utils/format";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Orders - SneaksUp",
+};
 
 async function OrdersPage() {
   const orders = await fetchUserOrders();

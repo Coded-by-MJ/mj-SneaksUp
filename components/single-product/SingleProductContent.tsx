@@ -123,7 +123,7 @@ function SingleProductContent({
         </div>
         <div className="flex items-center gap-2.5">
           {userId ? (
-            <FormContainer action={addToCartAction}>
+            <FormContainer action={addToCartAction} className="flex-grow">
               <input type="hidden" name="productId" value={product.id} />
               <input type="hidden" name="amount" value={amount} />
               <input type="hidden" name="size" value={selectedSize} />

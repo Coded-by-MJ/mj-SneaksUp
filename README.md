@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SneaksUp
 
-## Getting Started
+SneaksUp is a dynamic e-commerce platform designed for sneaker enthusiasts, providing a seamless shopping experience. With features that allow users to effortlessly browse and purchase shoes based on their preferences, SneaksUp combines stylish design with robust functionality. Enjoy secure transactions through Stripe's payment gateway and explore a diverse range of footwear tailored for men, women, and kids.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- Extensive Shoe Selection: Browse a wide variety of sneakers categorized by gender (men, women, kids) and easily filter by colors and sizes, ensuring a personalized shopping experience that meets every customer's needs.
+- Secure Payment Processing: Experience peace of mind with secure transactions facilitated by Stripe API, ensuring your payment details are safe and transactions are completed smoothly.
+- User-Friendly Interface: Enjoy a clean and intuitive design that makes navigating the site easy. Users can quickly find their desired products and complete their purchases with minimal effort.
+- Responsive Design: Shop on any device with confidence, as SneaksUp is optimized for desktops, tablets, and smartphones. The responsive design guarantees a consistent and user-friendly experience across all screen sizes.
+- Real-Time Inventory Management: Stay updated with real-time stock levels, allowing users to know the availability of their favorite sneakers at a glance.
+- Account Management: Create an account to track orders, save favorite products, and receive personalized recommendations based on preferences and purchase history.
+- Stylish and Modern Aesthetics: Engage with an appealing website layout that reflects the latest trends in sneaker culture, making shopping not just a task, but an enjoyable experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Built with
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- TailWind CSS
+- Shadcn UI
+- Mongo db
+- Prisma
+- Stripe Api
+- Clerkjs
+- Typescript
+- Nextjs
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Live Link
 
-## Learn More
+- [SneaksUp](https://mj-sneaks-up.vercel.app/)
 
-To learn more about Next.js, take a look at the following resources:
+## Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Twitter - [@MiracleJustice\_](https://twitter.com/miraclejustice_)

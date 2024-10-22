@@ -2,6 +2,12 @@ import ProductCard from "@/components/collections/ProductCard";
 import BestSellerCarousel from "@/components/global/BestSellerCarousel";
 import Container from "@/components/global/Container";
 import { fetchBestSellerProducts, fetchUserFavorites } from "@/utils/actions";
+
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Favorites - SneaksUp",
+};
 async function FavoritesPage() {
   const favorites = await fetchUserFavorites();
   const bestSellers = await fetchBestSellerProducts();
