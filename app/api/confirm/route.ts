@@ -14,10 +14,10 @@ export const GET = async (req: NextRequest) => {
 
     const addressDetails = session.shipping_details?.address;
     const shippingAddress = `${
-      addressDetails?.line1 || addressDetails?.line2
-    }, ${addressDetails?.city}, ${addressDetails?.state} ${
-      addressDetails?.postal_code
-    }, ${addressDetails?.country}`;
+      addressDetails?.line1 || addressDetails?.line2 || ""
+    }, ${addressDetails?.city || ""}, ${addressDetails?.state || ""} ${
+      addressDetails?.postal_code || ""
+    }, ${addressDetails?.country || ""}`;
 
     const orderId = session.metadata?.orderId;
     const cartId = session.metadata?.cartId;
