@@ -1,0 +1,311 @@
+[
+  {
+    "name": "air jordan 4 retro",
+    "price": 130,
+    "description": "Step up your game with the Air Jordan 4 Retro, offering classic styling with premium comfort. Built for those who seek performance and timeless aesthetics.",
+    "defaultColour": "green",
+    "collection": "men",
+    "new": false,
+    "bestSeller": true,
+    "sizes": [38, 39, 40, 41, 42, 43, 44, 45, 46],
+    "availableColours": ["green"],
+    "clerkId": "user_2nQq5pv54w5tVfRk3iEq4nPPh79",
+    "colourInfo": [
+      {
+        "name": "green",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp.jpeg",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp%20(2).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp%20(1).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/AirJordan4%20retro/air-jordan-4-retro-oxidized-green-mens-shoes-PNtDJp.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "jumpman mvp",
+    "price": 149,
+    "description": "The Jumpman MVP combines modern performance features with a classic silhouette, ideal for athletes who value both form and function.",
+    "defaultColour": "red",
+    "collection": "men",
+    "new": true,
+    "bestSeller": false,
+    "sizes": [38, 39, 40, 41, 42, 43, 44, 45, 46],
+    "availableColours": ["green", "red", "black"],
+    "clerkId": "user_2nQq5pv54w5tVfRk3iEq4nPPh79",
+    "colourInfo": [
+      {
+        "name": "red",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/red/jumpman-mvp-mens-shoes-gzmjDz.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/red/jumpman-mvp-mens-shoes-gzmjDz.jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/red/jumpman-mvp-mens-shoes-gzmjDz%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/red/jumpman-mvp-mens-shoes-gzmjDz%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/red/jumpman-mvp-mens-shoes-gzmjDz%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/red/jumpman-mvp-mens-shoes-gzmjDz%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/red/jumpman-mvp-mens-shoes-gzmjDz%20(1).jpeg"
+        ]
+      },
+      {
+        "name": "green",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/green/jumpman-mvp-mens-shoes-gzmjDz.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/green/jumpman-mvp-mens-shoes-gzmjDz.jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/green/jumpman-mvp-mens-shoes-gzmjDz%20(3).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/green/jumpman-mvp-mens-shoes-gzmjDz%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/green/jumpman-mvp-mens-shoes-gzmjDz%20(2).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/green/jumpman-mvp-mens-shoes-gzmjDz%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/green/jumpman-mvp-mens-shoes-gzmjDz%20(1).jpeg"
+        ]
+      },
+      {
+        "name": "black",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/mutilcolor/jumpman-mvp-mens-shoes-gzmjDz%20(3).png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/mutilcolor/jumpman-mvp-mens-shoes-gzmjDz%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/mutilcolor/jumpman-mvp-mens-shoes-gzmjDz%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/mutilcolor/jumpman-mvp-mens-shoes-gzmjDz%20(6).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/mutilcolor/jumpman-mvp-mens-shoes-gzmjDz.png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/mutilcolor/jumpman-mvp-mens-shoes-gzmjDz%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jumpman%20mvp/mutilcolor/jumpman-mvp-mens-shoes-gzmjDz%20(2).png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "air jordan 1 low",
+    "price": 119.99,
+    "description": "With a nod to its rich history, the Air Jordan 1 Low redefines low-top sneakers for everyday wear. Comfortable, stylish, and built to last.",
+    "defaultColour": "blue",
+    "collection": "men",
+    "new": false,
+    "bestSeller": false,
+    "sizes": [38, 39, 40, 41, 42, 43, 44, 45, 46],
+    "availableColours": ["green", "red", "black", "blue"],
+    "clerkId": "user_2nQq5pv54w5tVfRk3iEq4nPPh79",
+    "colourInfo": [
+      {
+        "name": "green",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(4).png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(6).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(7).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l.jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/green/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l.png"
+        ]
+      },
+      {
+        "name": "red",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn.jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn%20(5).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn%20(3).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn%20(2).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/red/air-jordan-1-low-mens-shoes-0LXhbn%20(1).jpeg"
+        ]
+      },
+      {
+        "name": "black",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l.jpeg",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l.png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(5).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(4).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(3).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(2).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/black/air-jordan-1-low-flyease-mens-easy-on-off-shoes-D3wW7l%20(1).jpeg"
+        ]
+      },
+      {
+        "name": "blue",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn.jpeg",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn.png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn%20(2).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan1%20low/blue/air-jordan-1-low-mens-shoes-0LXhbn%20(1).jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "air jordan 3 retro",
+    "price": 160,
+    "description": "The Air Jordan 3 Retro blends heritage design with cutting-edge technology, offering unmatched style and comfort for the modern-day sneakerhead.",
+    "defaultColour": "brown",
+    "collection": "women",
+    "new": true,
+    "bestSeller": true,
+    "sizes": [35, 36, 37, 38, 39, 40, 41, 42],
+    "availableColours": ["brown"],
+    "clerkId": "user_2nQq5pv54w5tVfRk3iEq4nPPh79",
+    "colourInfo": [
+      {
+        "name": "brown",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0.jpeg",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0.png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0%20(5).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0%20(4).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0%20(3).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0%20(2).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan3%20retro/air-jordan-3-retro-tex-desert-camo-womens-shoes-FMR3S0%20(1).jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "air jordan legacy",
+    "price": 100,
+    "description": "The Air Jordan Legacy is perfect for kids who want to make a bold statement on and off the court. Featuring vibrant colors and a secure fit, it’s designed for all-day comfort.",
+    "defaultColour": "white",
+    "collection": "kids",
+    "new": true,
+    "bestSeller": false,
+    "sizes": [25, 26, 27, 28, 29, 30, 31, 32],
+    "availableColours": ["white"],
+    "clerkId": "user_2nQq5pv54w5tVfRk3iEq4nPPh79",
+    "colourInfo": [
+      {
+        "name": "white",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z.jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airJordan%20legacy/air-jordan-legacy-312-low-little-kids-shoes-LVHB6Z%20(1).jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "air zoom arcadia",
+    "price": 110,
+    "description": "Give your kids the boost they need with the Air Zoom Arcadia. Featuring Zoom Air cushioning for a responsive feel, this shoe is ideal for active children who love to run.",
+    "defaultColour": "pink",
+    "collection": "kids",
+    "new": true,
+    "bestSeller": true,
+    "sizes": [25, 26, 27, 28, 29, 30, 31, 32],
+    "availableColours": ["black", "pink", "white"],
+    "clerkId": "user_2nQq5pv54w5tVfRk3iEq4nPPh79",
+    "colourInfo": [
+      {
+        "name": "black",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(7).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(6).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/black/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(1).png"
+        ]
+      },
+      {
+        "name": "pink",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT.jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT%20(6).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/pink/air-zoom-arcadia-2-little-kids-shoes-jQ4nZT%20(1).png"
+        ]
+      },
+      {
+        "name": "white",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm.jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(7).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(6).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/airzoom/white/air-zoom-arcadia-2-big-kids-road-running-shoes-gRPsFm%20(1).png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "jordan spizike low",
+    "price": 129,
+    "description": "The Jordan Spizike Low is the ultimate fusion of style and innovation. Crafted for kids, this sneaker features a dynamic design and top-tier materials for all-day wear.",
+    "defaultColour": "gold",
+    "collection": "kids",
+    "new": true,
+    "bestSeller": true,
+    "sizes": [25, 26, 27, 28, 29, 30, 31, 32],
+    "availableColours": ["white, gold", "black"],
+    "clerkId": "user_2nQq5pv54w5tVfRk3iEq4nPPh79",
+    "colourInfo": [
+      {
+        "name": "gold",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(7).png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(8).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN.png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white%20gold/jordan-spizike-low-big-kids-shoes-t6s9lN%20(6).png"
+        ]
+      },
+      {
+        "name": "black",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN%20(1).jpeg",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN%20(1).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN%20(6).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/black/jordan-spizike-low-big-kids-shoes-t6s9lN.jpeg"
+        ]
+      },
+      {
+        "name": "white",
+        "mainImage": "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr.png",
+        "others": [
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr%20(7).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr%20(6).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr%20(5).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr%20(4).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr%20(3).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr%20(2).png",
+          "https://mkvhhqqxfhvxcanhdivn.supabase.co/storage/v1/object/public/sneaksUp/jordan%20spizike%20low/white/jordan-spizike-low-big-kids-shoes-XFRzcr%20(1).png"
+        ]
+      }
+    ]
+  }
+]

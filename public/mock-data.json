@@ -1,0 +1,272 @@
+[
+  {
+    "product": "Zooxo",
+    "description": "Other infective bursitis, right hand",
+    "price": 46,
+    "collection": "men",
+    "bestSeller": true,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Buzzshare",
+    "description": "Displaced pilon fracture of left tibia, initial encounter for closed fracture",
+    "price": 51,
+    "collection": "men",
+    "bestSeller": false,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Jabbersphere",
+    "description": "Spastic hemiplegia affecting unspecified side",
+    "price": 3,
+    "collection": "women",
+    "bestSeller": false,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Jayo",
+    "description": "Displacement of artificial heart, subsequent encounter",
+    "price": 84,
+    "collection": "women",
+    "bestSeller": true,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Vimbo",
+    "description": "Moderate laceration of spleen",
+    "price": 89,
+    "collection": "men",
+    "bestSeller": true,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Gabspot",
+    "description": "Exudative cyst of pars plana, right eye",
+    "price": 31,
+    "collection": "women",
+    "bestSeller": true,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Tanoodle",
+    "description": "Late congenital neurosyphilis [juvenile neurosyphilis]",
+    "price": 2,
+    "collection": "women",
+    "bestSeller": true,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Kwimbee",
+    "description": "Displaced fracture of neck of first metacarpal bone, right hand, subsequent encounter for fracture with malunion",
+    "price": 28,
+    "collection": "men",
+    "bestSeller": false,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Tagfeed",
+    "description": "Nondisplaced spiral fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",
+    "price": 9,
+    "collection": "kids",
+    "bestSeller": false,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Yabox",
+    "description": "Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus",
+    "price": 42,
+    "collection": "kids",
+    "bestSeller": false,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Jaxbean",
+    "description": "Choledochal cyst",
+    "price": 24,
+    "collection": "men",
+    "bestSeller": false,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Oyoyo",
+    "description": "Displaced oblique fracture of shaft of left radius, subsequent encounter for closed fracture with routine healing",
+    "price": 62,
+    "collection": "men",
+    "bestSeller": false,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Thoughtstorm",
+    "description": "Corrosion of first degree of right ear [any part, except ear drum]",
+    "price": 19,
+    "collection": "women",
+    "bestSeller": false,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Innojam",
+    "description": "Puncture wound with foreign body of left back wall of thorax without penetration into thoracic cavity, sequela",
+    "price": 4,
+    "collection": "men",
+    "bestSeller": true,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Skidoo",
+    "description": "Complete traumatic amputation at level between knee and ankle, right lower leg, initial encounter",
+    "price": 4,
+    "collection": "kids",
+    "bestSeller": false,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Rhynoodle",
+    "description": "Peritonitis",
+    "price": 43,
+    "collection": "women",
+    "bestSeller": false,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Fivechat",
+    "description": "Other specified disorders of eye and adnexa",
+    "price": 60,
+    "collection": "kids",
+    "bestSeller": false,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Wordtune",
+    "description": "Encounter for fitting and adjustment of unspecified artificial arm, unspecified arm",
+    "price": 39,
+    "collection": "men",
+    "bestSeller": true,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Jaxworks",
+    "description": "Rheumatoid lung disease with rheumatoid arthritis of left elbow",
+    "price": 25,
+    "collection": "kids",
+    "bestSeller": false,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Livetube",
+    "description": "Poisoning by antidiarrheal drugs, accidental (unintentional)",
+    "price": 77,
+    "collection": "men",
+    "bestSeller": false,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Avavee",
+    "description": "Accidental discharge of other larger firearm",
+    "price": 64,
+    "collection": "men",
+    "bestSeller": true,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Realcube",
+    "description": "Other fracture of right foot, sequela",
+    "price": 99,
+    "collection": "women",
+    "bestSeller": false,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Minyx",
+    "description": "Other fracture of unspecified great toe, subsequent encounter for fracture with delayed healing",
+    "price": 31,
+    "collection": "men",
+    "bestSeller": true,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Flashspan",
+    "description": "Other specified injury of blood vessel of right little finger, initial encounter",
+    "price": 28,
+    "collection": "men",
+    "bestSeller": false,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Dabfeed",
+    "description": "Intraoperative cerebrovascular infarction during other surgery",
+    "price": 82,
+    "collection": "kids",
+    "bestSeller": true,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Trunyx",
+    "description": "Anterior subluxation of left radial head, initial encounter",
+    "price": 93,
+    "collection": "women",
+    "bestSeller": true,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Flashdog",
+    "description": "Personal history of malignant carcinoid tumor of bronchus and lung",
+    "price": 72,
+    "collection": "women",
+    "bestSeller": true,
+    "mainColor": "green",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Ailane",
+    "description": "Displaced spiral fracture of shaft of left tibia, subsequent encounter for closed fracture with malunion",
+    "price": 17,
+    "collection": "kids",
+    "bestSeller": true,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Meemm",
+    "description": "Unspecified physeal fracture of upper end of humerus, right arm, subsequent encounter for fracture with nonunion",
+    "price": 87,
+    "collection": "kids",
+    "bestSeller": true,
+    "mainColor": "red",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  },
+  {
+    "product": "Skinix",
+    "description": "Person on outside of heavy transport vehicle injured in collision with heavy transport vehicle or bus in nontraffic accident, sequela",
+    "price": 74,
+    "collection": "kids",
+    "bestSeller": true,
+    "mainColor": "blue",
+    "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  }
+]
