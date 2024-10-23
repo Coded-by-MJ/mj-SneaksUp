@@ -128,7 +128,7 @@ function SingleProductContent({
               <input type="hidden" name="amount" value={amount} />
               <input type="hidden" name="size" value={selectedSize} />
               <input type="hidden" name="colour" value={selectedColour} />
-              <AddToBagButton className="bg-black rounded-full py-3 text-sm font-normal gap-2 h-[44px] flex-grow sm:flex-grow-0 sm:w-[338px] lg:w-[512px]" />
+              <AddToBagButton className="bg-black rounded-full py-3 text-sm font-normal gap-2 h-[44px] w-full sm:w-[338px] lg:w-[512px]" />
             </FormContainer>
           ) : (
             <ProductSignInButton className="bg-black capitalize rounded-full py-3 text-sm font-normal gap-2 h-[44px] flex-grow sm:flex-grow-0 sm:w-[338px] lg:w-[512px]" />
