@@ -493,7 +493,7 @@ export const updateCartItemAction = async ({
 
         await updateCart(cart);
         revalidatePath("/bag");
-        redirect("/bag");
+
         return {
           message: "✅ Cart updated and items merged",
           variant: "default",
