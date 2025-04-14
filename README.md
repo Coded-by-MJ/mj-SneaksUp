@@ -25,7 +25,7 @@ SneaksUp is a dynamic e-commerce platform designed for sneaker enthusiasts, prov
 
 ## Live Link
 
-- [SneaksUp](https://mj-sneaks-up.vercel.app/)
+- [SneaksUp](https://sneaks-up.miracleibharokhonre.com/)
 
 ## Author
 

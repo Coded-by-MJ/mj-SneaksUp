@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: "SneaksUp: Your Ultimate Sneaker Destination",
     description:
       "Discover the best sneakers for men, women, and kids at SneaksUp. Enjoy a seamless shopping experience with secure payments through Stripe and effortless browsing by color and size.",
-    url: "https://mj-sneaks-up.vercel.app/",
+    url: "https://sneaks-up.miracleibharokhonre.com/",
     siteName: "SneaksUp",
     images: [
       {
